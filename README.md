@@ -32,5 +32,4 @@
 # Marital status Single
 # Nationality Indian
 # Languages Known English, Hindi, Marathi
-#  I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the 
-responsibility for the correctness of the above mentioned particulars 
+#  I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned particulars 
