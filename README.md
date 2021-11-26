@@ -22,13 +22,12 @@
 # IN Progress : A Fully Functional E-Commerce Website i.e Clone of Amazon Shopping website Using React And Other Stacks to be used...
 # Mid-Way Link : https://amzon-cl.web.app
 # Learning AND Skills
-• Github And Open Sourse Contribution
-• Latest FrameWorks : React By FaceBook
-• Websites Deployment Platforms : Github Pages ,Netlify ,Versel ,Google Firebase
-• Website Builders : Wordpress, WIX, SquareSpace and Google Sites
-• Cloud Consoles : AWS , AZURE AND GCP
-• Full STACK : MERN { MONGO EXPRESS REACT NODE JS } Just Started { Beginner }
-# Personal Details:
+#  Github And Open Sourse Contribution
+# Latest FrameWorks : React By FaceBook
+# Websites Deployment Platforms : Github Pages ,Netlify ,Versel ,Google Firebase
+# Website Builders : Wordpress, WIX, SquareSpace and Google Sites
+# Cloud Consoles : AWS , AZURE AND GCP
+# Full STACK : MERN { MONGO EXPRESS REACT NODE JS } Just Started { Beginner }
 # Date of Birth 19 JANUARY 2000
 # Gender Male
 # Marital status Single
