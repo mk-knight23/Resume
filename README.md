@@ -1,13 +1,13 @@
 # Resume
-My Own Resume
-Musharraf Ateeque Kazi
-mk.knight970@gmail.com
-9765490536
-Career Objective:
+# My Own Resume
+# Musharraf Ateeque Kazi
+# mk.knight970@gmail.com
+# 9765490536
+# Career Objective:
 Web Developer { FRESHER } in designing and developing user interfaces, testing, debugging, and 
 Deployment with Latest technologies. Proven ability in optimizing web functionality that improve data 
 retrieval and workflow efficiencies.
-Academic Qualification
+# Academic Qualification
 Year of 
 Passing
 Exam Institute University/Board Marks%
@@ -45,14 +45,11 @@ Learning AND Skills
 • Website Builders : Wordpress, WIX, SquareSpace and Google Sites
 • Cloud Consoles : AWS , AZURE AND GCP
 • Full STACK : MERN { MONGO EXPRESS REACT NODE JS } Just Started { Beginner }
-Personal Details:
-Date of Birth 19 JANUARY 2000
-Gender Male
-Marital status Single
-Nationality Indian
-Languages Known English, Hindi, Marathi
-Permanent Address Riyaz Colony ,Latur ,Maharshtra ,413512
-Temporary Address Riyaz Colony ,Latur ,Maharshtra ,413512
-Declaration:
-I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the 
+### Personal Details:
+# Date of Birth 19 JANUARY 2000
+# Gender Male
+# Marital status Single
+# Nationality Indian
+# Languages Known English, Hindi, Marathi
+#  I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the 
 responsibility for the correctness of the above mentioned particulars
