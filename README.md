@@ -1,5 +1,4 @@
-# Resume
-# My Own Resume
+# KAZI's Resume
 # Musharraf Ateeque Kazi
 # mk.knight970@gmail.com
 # 9765490536
