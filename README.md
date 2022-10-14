@@ -1,4 +1,4 @@
-# KAZI's Resume
+# Musharraf KAZI's Resume
 # Musharraf Ateeque Kazi
 # kazimusharraf1234@gmail.com
 # 9765490536
