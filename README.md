@@ -1,7 +1,7 @@
 # Musharraf Ateeque KAZI's Resume
 # Musharraf Ateeque Kazi
 # kazimusharraf1234@gmail.com
-# 9765490536
+# 9765490536 
 # Career Objective:
 # Web Developer { FRESHER } in designing and developing user interfaces, testing, debugging, and  Deployment with Latest technologies. Proven ability in optimizing webfunctionality that improve data retrieval and workflow efficiencies.
 # Academic Qualification
